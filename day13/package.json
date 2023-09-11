@@ -1,0 +1,28 @@
+{
+  "name": "la-vie-est-bell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx tsc && node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Baben01/la-vie-est-Bell/issues"
+  },
+  "homepage": "",
+  "devDependencies": {
+    "@types/node": "^16.11.26",
+    "@types/lodash": "4.14.191",
+    "typescript": "^4.9.3"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
